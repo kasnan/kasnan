@@ -1,4 +1,4 @@
-###Here are some ideas to get you started:
+#Here are some ideas to get you started:
 
 There is a light! And there is a bug!
 
