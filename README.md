@@ -1,5 +1,7 @@
 ###Here are some ideas to get you started:
 
+There is a light! And there is a bug!
+
 - 🔭 I’m currently working on preparing coding test
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
