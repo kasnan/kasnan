@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/ANERD-FFDA28?style=flat-square&logo=firebase&logoColor=white"/>
+<img src="https://simpleicons.org/icons/cplusplus.svg/ANERD-FFDA28?style=flat-square&logo=firebase&logoColor=white"/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on preparing coding test
