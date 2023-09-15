@@ -15,6 +15,8 @@
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![centos](https://img.shields.io/badge/centos-262577.svg?&style=for-the-badge&logo=centos&logoColor=white)
+![windows](https://img.shields.io/badge/windows-0078D4.svg?&style=for-the-badge&logo=windows&logoColor=white)
+![android](https://img.shields.io/badge/android-3DDC84.svg?&style=for-the-badge&logo=android&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
